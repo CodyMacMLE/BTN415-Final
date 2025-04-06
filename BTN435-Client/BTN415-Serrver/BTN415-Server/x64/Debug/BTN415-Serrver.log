@@ -1,0 +1,5 @@
+﻿  server.cpp
+C:\Users\codym\OneDrive\Documents\GitHub\BTN415-Final\BTN435-Client\BTN415-Serrver\server.cpp(55,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\codym\OneDrive\Documents\GitHub\BTN415-Final\BTN435-Client\BTN415-Serrver\server.cpp(72,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\codym\OneDrive\Documents\GitHub\BTN415-Final\BTN435-Client\BTN415-Serrver\server.cpp(79,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  BTN415-Serrver.vcxproj -> C:\Users\codym\OneDrive\Documents\GitHub\BTN415-Final\BTN435-Client\BTN415-Serrver\x64\Debug\BTN415-Server.exe
