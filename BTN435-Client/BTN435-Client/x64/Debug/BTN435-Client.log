@@ -1,5 +1,0 @@
-﻿  client.cpp
-C:\Users\codym\OneDrive\Documents\GitHub\BTN415-Final\BTN435-Client\BTN435-Client\client.cpp(56,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\codym\OneDrive\Documents\GitHub\BTN415-Final\BTN435-Client\BTN435-Client\client.cpp(151,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\codym\OneDrive\Documents\GitHub\BTN415-Final\BTN435-Client\BTN435-Client\client.cpp(176,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  BTN435-Client.vcxproj -> C:\Users\codym\OneDrive\Documents\GitHub\BTN415-Final\BTN435-Client\x64\Debug\BTN415-Client.exe
